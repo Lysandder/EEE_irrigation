@@ -184,7 +184,7 @@ Press **Escape** to exit fullscreen.
 ### Scene — Pump ON (S=1, R=0, T=1)
 ![Pump On](screenshots/pump_on.png)
 
-### Truth Table — Input #10 highlighted (1010)
+### Truth Table
 ![Truth Table](screenshots/truth_table.png)
 
 ### Circuit — Live gate diagram
