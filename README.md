@@ -12,9 +12,9 @@
 | Name |
 |------|
 | *Xaydarov Timur* |
-| *Abdulaziz Xolamamatov* |
+| *Abdulaziz Xolmamatov* |
 | *Adham Abdiyev* |
-| *Dawit baxhramov* |
+| *Dawit Baxhramov* |
 | *Abdukarim Xudayberdiyev* |
 
 ---
