@@ -167,13 +167,6 @@ python main.py
 The program launches in **fullscreen** automatically.  
 Press **Escape** to exit fullscreen.  
 
-### File Structure
-
-```
-├── main.py          # Main program — run this
-└── README.md        # This file
-```
-
 ---
 
 ## 📸 Screenshots
