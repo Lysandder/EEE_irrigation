@@ -85,21 +85,6 @@ The tank requirement (`T`) acts as a **safety gate** in both paths — the pump 
 
 The circuit includes a **D Flip-Flop (memory bit)** connected to the NOT M output, providing state memory and demonstrating sequential logic alongside the combinational gates.
 
-### Truth Table (selected rows)
-
-| S | R | T | M | ¬R | S∧¬R | S∧¬R∧T | T∧M | g3∨g4 | **PUMP** |
-|---|---|---|---|----|------|---------|-----|--------|----------|
-| 0 | 0 | 0 | 0 | 1  | 0    | 0       | 0   | 0      | **OFF**  |
-| 0 | 0 | 1 | 1 | 1  | 0    | 0       | 1   | 1      | **ON**   |
-| 1 | 0 | 1 | 0 | 1  | 1    | 1       | 0   | 1      | **ON**   |
-| 1 | 1 | 1 | 0 | 0  | 0    | 0       | 0   | 0      | **OFF**  |
-| 1 | 0 | 1 | 1 | 1  | 1    | 1       | 1   | 1      | **ON**   |
-| 1 | 1 | 1 | 1 | 0  | 0    | 0       | 1   | 1      | **ON**   |
-
-Full 16-row truth table is available inside the Python program (Truth Table tab).
-
-**Pump activates in 5 out of 16 input combinations (31.25%).**
-
 ---
 
 ## 🔌 CircuitVerse Link
@@ -207,6 +192,9 @@ Press **Escape** to exit fullscreen.
 
 ### CircuitVerse Design
 ![CircuitVerse](screenshots/circuitverse.png)
+
+### Demonstration
+![Demonstration](screenshots/game_demonstration.mov)
 
 
 ---
