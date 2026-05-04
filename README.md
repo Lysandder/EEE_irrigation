@@ -194,7 +194,7 @@ Press **Escape** to exit fullscreen.
 ![CircuitVerse](screenshots/circuitverse.png)
 
 ### Demonstration
-![Demonstration](screenshots/game_demonstration.mp4)
+<video src="screenshots/game_demonstration.mp4" controls width="100%"></video>
 
 
 ---
